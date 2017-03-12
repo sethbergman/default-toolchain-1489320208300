@@ -1,5 +1,7 @@
 # Conversation with Discovery [![Build Status](https://travis-ci.org/watson-developer-cloud/conversation-with-discovery.svg?branch=master)](http://travis-ci.org/watson-developer-cloud/conversation-with-discovery)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/default-toolchain-1489320208300.svg)](https://greenkeeper.io/)
+
 This application demonstrates the combination of the [Conversation](http://www.ibm.com/watson/developercloud/doc/conversation/index.shtml) and [Discovery](http://www.ibm.com/watson/developercloud/doc/discovery/#overview) services. First, users pose questions to the Conversation service. If Conversation is not able to confidently answer, Conversation with Discovery executes a call to Discovery to provide the user with a list of helpful answers.
 
 <b>Either way you deploy this app, you must have a Bluemix account and run some steps within Bluemix.</b>
